@@ -1,0 +1,19 @@
+"Sequence name";"FPS";"Duration (sec)";"Video Codec";"Width";"Height";"Battery Drain (nAh)";"AVG % CPU";"AVG % MEM"
+sintel_trailer;24;52;AV1;256;144;201;4.4;4.56
+sintel_trailer;24;52;AVC;256;144;169;3.57;4.94
+sintel_trailer;24;52;HEVC;256;144;158;3.57;4.76
+sintel_trailer;24;52;AV1;426;240;302;6.54;4.86
+sintel_trailer;24;52;AVC;426;240;172;3.53;4.94
+sintel_trailer;24;52;HEVC;426;240;161;3.62;4.86
+sintel_trailer;24;52;AV1;640;360;494;8.39;5.06
+sintel_trailer;24;52;AVC;640;360;176;3.72;4.94
+sintel_trailer;24;52;HEVC;640;360;173;3.69;4.80
+sintel_trailer;24;52;AV1;864;480;645;10.34;4.80
+sintel_trailer;24;52;AVC;864;480;178;3.76;4.90
+sintel_trailer;24;52;HEVC;864;480;177;3.84;4.90
+sintel_trailer;24;52;AV1;1280;720;1140;12.85;7.7
+sintel_trailer;24;52;AVC;1280;720;186;4.01;5.06
+sintel_trailer;24;52;HEVC;1280;720;189;3.96;5.04
+sintel_trailer;24;52;AV1;1920;1080;2170;17.3;8.32
+sintel_trailer;24;52;AVC;1920;1080;225;4.11;5.34
+sintel_trailer;24;52;HEVC;1920;1080;213;4.14;5.24
